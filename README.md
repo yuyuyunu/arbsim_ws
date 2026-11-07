@@ -41,7 +41,7 @@ ros2 run arbsim sim_control
 
 ---
 
-* **`drone_controller.py`**: **EDIT ONLY THIS FILE**. This is the state machine that sends commands to the drone. You will write all your mission logic here.
+* **`sim_control.py`**: **EDIT THIS FILE**. This is the file that sends commands to the drone. You will write all your mission logic here.
 
 ---
 
